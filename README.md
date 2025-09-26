@@ -2,7 +2,7 @@
 
 A deep learning project that implements an effective waste material segregation system using Convolutional Neural Networks (CNNs) to categorize waste into distinct groups, enhancing recycling efficiency and promoting sustainable waste management practices.
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to implement an effective waste material segregation system using convolutional neural networks (CNNs) that categorises waste into distinct groups. This process enhances recycling efficiency, minimises environmental pollution, and promotes sustainable waste management practices.
 
@@ -11,7 +11,7 @@ The objective of this project is to implement an effective waste material segreg
 - Improve waste segregation efficiency to support recycling and reduce landfill waste
 - Understand the properties of different waste materials to optimise sorting methods for sustainability
 
-## 📊 Dataset
+## Dataset
 
 The dataset consists of images of common waste materials categorized into **7 classes**:
 
@@ -28,7 +28,7 @@ The dataset consists of images of common waste materials categorized into **7 cl
 - Images within each folder belong to that particular category
 - Items are not further subcategorized within each class
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ jupyter notebook CNN_Waste_Segregation_Starter.ipynb
 
 3. If using Google Colab, upload the notebook and run the cells sequentially.
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 The project implements two approaches:
 
@@ -83,7 +83,7 @@ The project implements two approaches:
 - Fine-tuned for waste classification task
 - Achieves better performance with less training time
 
-## 📈 Model Performance
+## Model Performance
 
 The models are evaluated using:
 - **Accuracy**: Overall classification accuracy
@@ -91,7 +91,7 @@ The models are evaluated using:
 - **Confusion Matrix**: Detailed class-wise performance
 - **Classification Report**: Precision, recall, and F1-score for each class
 
-## 📋 Project Workflow
+## Project Workflow
 
 1. **Data Loading**: Load and organize the waste image dataset
 2. **Data Preprocessing**: 
@@ -107,7 +107,7 @@ The models are evaluated using:
    - Performance analysis on test data
    - Visualization of results
 
-## 🛠️ Features
+## Features
 
 - **Image Classification**: Automated waste material classification
 - **Data Visualization**: Comprehensive plots for data analysis
@@ -115,7 +115,7 @@ The models are evaluated using:
 - **Performance Metrics**: Detailed evaluation with multiple metrics
 - **Scalable Architecture**: Easy to extend for additional waste categories
 
-## 🌱 Environmental Impact
+## Environmental Impact
 
 This project contributes to environmental sustainability by:
 - Improving waste sorting accuracy
@@ -124,14 +124,3 @@ This project contributes to environmental sustainability by:
 - Minimizing contamination in recycling streams
 - Supporting automated waste management systems
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in this repository.
-
----
-
-**Note**: This project is designed for educational and research purposes to demonstrate the application of deep learning in environmental sustainability and waste management.
